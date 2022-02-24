@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the persecutions, robberies, and losses, sustained by the Protestants of Killmare, in Ireland with an account of their erecting a fortress to defend themselves against the bloody insolencies of the papists : also, the way and manner of their happy escape into England : together with the reasons why the Protestants there did not regiment themselves, and take the field, or make their flight sooner : as likewise, some natural conclusions that plague and famine will arise forthwith in that kingdom / by a principal manager in that action.</title>
+            <author>Orpen, Richard, 1652-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53448</idno>
+            <idno type="STC">Wing O466</idno>
+            <idno type="STC">ESTC R7932</idno>
+            <idno type="EEBO-CITATION">12990789</idno>
+            <idno type="OCLC">ocm 12990789</idno>
+            <idno type="VID">96333</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96333)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 724:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the persecutions, robberies, and losses, sustained by the Protestants of Killmare, in Ireland with an account of their erecting a fortress to defend themselves against the bloody insolencies of the papists : also, the way and manner of their happy escape into England : together with the reasons why the Protestants there did not regiment themselves, and take the field, or make their flight sooner : as likewise, some natural conclusions that plague and famine will arise forthwith in that kingdom / by a principal manager in that action.</title>
+                  <author>Orpen, Richard, 1652-1716.</author>
+               </titleStmt>
+               <extent>[4], 30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ..., and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:96333:1"/>
+            <p>AN Exact Relation OF THE Perſecutions, Robberies, and Loſſes, ſuſtained by the Proteſtants of <hi>Killmare,</hi> in <hi>Ireland.</hi>
+            </p>
+            <pb facs="tcp:96333:2"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96333:2"/>
+            <p>AN Exact Relation OF THE Perſecutions, Robberies, and Loſſes, ſuſtained by the Proteſtants of <hi>Killmare,</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>WITH An Account of their Erecting a Fortreſs to Defend themſelves againſt the Bloody Inſolencies of the Papiſts.</p>
+            <p>ALSO, The way and manner of their Happy Eſcape into <hi>England:</hi> Together with the Reaſons why the Proteſtants there did not Regiment themſelves, and take the Field, or make their Flight ſooner.</p>
+            <p>As likewiſe, Some Natural Concluſions that Plague and Famine will ariſe forthwith in that Kingdom.</p>
+            <p>By a Principal Manager in that Action.</p>
+            <p>
+               <hi>By Authority.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon,</hi> in St. <hi>Paul</hi>'s Church-yard; and are to be Sold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1689:</p>
+            <pb facs="tcp:96333:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:96333:3"/>
+            <head>AN Exact Relation OF THE Perſecutions, Robberies, and Loſſes, ſuſtained by the Proteſtants of <hi>Killmare,</hi> in <hi>Ireland.</hi>
+            </head>
+            <p>FInding that moſt People do admire why ſo many of the Proteſtants have left the Kingdom of <hi>Ireland,</hi> and why they did not rather chooſe to get together into ſome ſtrong Hold, (like thoſe of <hi>London-Derry)</hi> and there Defend themſelves, until ſuch time as they could receive Relief out of <hi>England,</hi> now I have writ the following Narrative to ſatisfie all People, that, ſuch of the Prote<g ref="char:EOLhyphen"/>ſtants there as were concerned, did what was
+<pb n="2" facs="tcp:96333:4"/>
+poſſible for them to do; which, I hope, will plainly appear by the following Account.</p>
+            <p>In the Pariſh of <hi>Killmare,</hi> in the County of <hi>Kerry,</hi> in the Province of <hi>Munſter,</hi> and King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> ſcituate in ſome of the Weſt, and worſt part of that Kingdom, for Natural Barrenneſs, environed with Rocky, Boggy, and Woody faſtneſſes, ten, twenty, and in ſome places thirty Miles round; there was a Colony of Proteſtants planted by Sir <hi>William Petty,</hi> in part of his Eſtate, which were uſually imploy'd upon an Iron-works, and Fiſhings of Herring, Pilchard, Mackarel and Salmon, ſet up there about the year 1670, at his Expence of above 10000 <hi>l.</hi> where it appeared by the right numbering of the People, that there were living about them, upwards of 500 Papiſts for one of theſe Proteſtants. They very much improved the unfertile Country where they Inhabited, and lived plentifully (under care of one <hi>T—P—,</hi> their Miniſter, one of the Juſtices of the Peace for that County, ſometime Judge of the Eccleſiaſtical Court, and of the High Court of Admiralty, for ſome thoſe Weſtern Parts; and under one
+<pb n="3" facs="tcp:96333:4"/>
+               <hi>R—O—,</hi> Gentleman, Agent for the Lady <hi>Petty</hi> (now Baronneſs of <hi>Shelborne)</hi> her Son the Lord Baron of <hi>Shelborne,</hi> and <hi>James Waller,</hi> Eſquire, until the year 1685, when the gene<g ref="char:EOLhyphen"/>ral Calamity by taking the Sword, the Law, and in a manner, all kind of Power and Ma<g ref="char:EOLhyphen"/>giſtracy whatever, out of the Hands of the Proteſtants, began throughout that Kingdom; or in ſuch places, where it was not wholly taken from them, they were ſo heavily preſſed up<g ref="char:EOLhyphen"/>on by Popiſh Judges, Sheriffs, Mayors, Sove<g ref="char:EOLhyphen"/>raigns, Provoſts, Coroners, and an over-mix<g ref="char:EOLhyphen"/>ture of Aldermen, Lawyers, and Juſtices of the Peace, that they ſignified very little in Court or Country. Since which time the Proteſtant Inhabitants of the Pariſh of <hi>Killmare</hi> (a place where the Natives were very Rebel<g ref="char:EOLhyphen"/>lious, even in the moſt peaceable times) have been great ſufferers through the many Incur<g ref="char:EOLhyphen"/>ſions and Inſolencies of the Neighbouring Papiſts, and the Evil Adminiſtration of the Laws; the Judges, and all thoſe in Seats of Judicature, and Places of Authority, not on<g ref="char:EOLhyphen"/>ly denying them Juſtice, but incouraging the Natives in their Out-rages, and wicked beha<g ref="char:EOLhyphen"/>viour
+<pb n="4" facs="tcp:96333:5"/>
+towards them, inſomuch, that it grew almoſt impoſſible for a Proteſtant in that Pariſh, to recover any Debt or Right from a Papiſt. Theſe Miſeries and Wrongs they underwent patiently, which ever ſince <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> laſt, were poured forth with more cruelty upon them<hi>:</hi> The Officers of the new raiſed Levies being Perſons of broken and deſperate Fortunes, not able to maintain themſelves or their Souldiers, were forced to filch and ſteal black Cattle and Sheep, all over the Kingdom, for their Subſiſtence; and more eſpecially, in the County of <hi>Kerry,</hi> where the Natives were more Indigent, the Thieves appeared pub<g ref="char:EOLhyphen"/>lickly in great numbers, thirty, forty, and oftentimes ſeventy in a Company, well armed with Pikes, Swords, Guns, Piſtols, <hi>&amp;c.</hi> march<g ref="char:EOLhyphen"/>ing openly through the Glins and Moun<g ref="char:EOLhyphen"/>tains, with Droves of ſix or ſeven ſcore Cows and Bullocks at a time, in ſuch terror to the Proteſtants, that when they ſaw their Cattle hurried away, before their faces, by the Rogues, they durſt not purſue nor enquire for them<hi>:</hi> But of all the County, the Prote<g ref="char:EOLhyphen"/>ſtants in <hi>Killmare</hi> have endured the greateſt
+<pb n="5" facs="tcp:96333:5"/>
+Perſecution, upon whom the Malice and Inveteracy of the Papiſts was exerciſed with ſo much ſeverity, that by the beginning of <hi>January</hi> following, they were bereft of all their Cattle and Haggards of Corn; their Barns and Granaries ſtript and robbed, and all the ſubſtance they had without Doors forced from them, and nothing left them to live upon but what little Proviſion they had in their Houſes. Whereupon, <hi>T—P—,</hi> and <hi>R—O—,</hi> in behalf of themſelves, and the reſt of their Pariſhoners, made a Draught of their com<g ref="char:EOLhyphen"/>plaints, ſetting forth at large the many wrongs and loſes they ſuſtained by their Circumjacent Neighbours<hi>:</hi> And ſent the ſame to Lieute<g ref="char:EOLhyphen"/>nant General <hi>Juſtine mac Carthy,</hi> Governour of that Province; and another to Sir <hi>Valentine Browne,</hi> Governour (under him) of the County of <hi>Kerry;</hi> and Petitioned them both for remedy againſt the Robbers. The Go<g ref="char:EOLhyphen"/>vernours received their Complaints and Peti<g ref="char:EOLhyphen"/>tions very kindly, and Inveighing vehement<g ref="char:EOLhyphen"/>ly at the behaviour of the Villains, that had deſpoiled them in that manner, ſeemed much troubled for the injuries which was done un<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:96333:6"/>
+the Petitioners; and at length in ſix days after, returned upon the backs of their Peti<g ref="char:EOLhyphen"/>tioners Warrants, impowering the Petitioners to apprehend and bring in the Malefactors; (remedies, which at ſuch a juncture did not lie well in the power of the Petitioners to apply;) While the Petitioners were waiting for a return from the Governours upon their Petitions, behold ſix of the Petitioners Houſes were in one Night Riffled and Plundred of all that was in them; ſo that theſe poor Pro<g ref="char:EOLhyphen"/>teſtants were in much Diſtraction and Con<g ref="char:EOLhyphen"/>ſternation, not knowing how to diſpoſe of them<g ref="char:EOLhyphen"/>ſelves for their ſafety, and fearing that thoſe Rogues who began to Rob their Houſes, would not be content without their Lives alſo: And being ſtruck with Reflections up<g ref="char:EOLhyphen"/>on the Numerouſneſs of the Natives that lived ſurroundingly about them, and the direful and diſmal Maſſacre acted upon moſt part of the Proteſtants of that Kingdom in the year 1641. They conſulted <hi>T. P.</hi> and <hi>R. O.</hi> what courſe to take for their preſervation; who ſent an Expreſs forthwith to <hi>Newmarket</hi> to their Friend (Sir <hi>R. Ald.</hi> near
+<pb n="7" facs="tcp:96333:6"/>
+Forty Miles diſtant from <hi>Killmare)</hi> to know from him, how things look't out of <hi>England,</hi> and to give them his beſt advice how to manage themſelves for their ſafety; where<g ref="char:EOLhyphen"/>unto Sir <hi>R. A.</hi> ſent them his anſwer in theſe words. <q>That an Army was expected every day, to Land out of <hi>England,</hi> that in the mean time the Proteſtants about <hi>Newmarket,</hi> and all over the reſt of the County of <hi>Corke,</hi> ſent in their Proviſions to the next Gariſons, and themſelves came in after with their Horſes and Arms, and that he thought well to follow their Example.</q>
+            </p>
+            <p>The Proteſtants of <hi>Killmare</hi> upon this, con<g ref="char:EOLhyphen"/>ſidering that all their Horſes (except about a douſin, which <hi>R. O.</hi> had preſerved by keeping a Watch over them in his Stable) were Stolen from them; that they had not Money to Hire Horſes from the Natives, to carry their Pro<g ref="char:EOLhyphen"/>viſions and Children out of that place; that they had about Forty Miles, the greateſt part of it the worſt way for Boggs, Rocks, and Precipices, and the moſt Savage People in the Kingdom, to go through, to <hi>Bandon;</hi> being the neareſt place to them, where they
+<pb n="8" facs="tcp:96333:7"/>
+could expect to joyn with a Proteſtant Body; the difficulties and Barbarities that might hap<g ref="char:EOLhyphen"/>pen to themſelves, their Wives and ſmall Children, from the inacceſſableneſs of the Road at that time of the Year, and from their Popiſh Neighbours: Finding them<g ref="char:EOLhyphen"/>ſelves in the condition of the Perſecuted <hi>Hugonots</hi> of <hi>France,</hi> that had no ſafety at home, and muſt not (or could not) leave their Houſes, to be ſuccoured elſewhere, con<g ref="char:EOLhyphen"/>cluded to ſtick to each other in a Body, and wait as long as they could for relief, reſol<g ref="char:EOLhyphen"/>ving to ſtand and die together like men, ra<g ref="char:EOLhyphen"/>ther than a part to be Murdered in their Beds like Dogs, by their Blood-thirſty Neighbours.</p>
+            <p>Upon the River of <hi>Killmare</hi> (from whence the Pariſh has its name) is a Houſe built by Sir <hi>W. P.</hi> for his Chief Agent<hi>:</hi> It's 44 Foot in length, 22 in breadth 2 Stories and a half high, in it are only four large Rooms and a Garret; It ſtands upon a Rock at a place called <hi>Killowen,</hi> where the Tyde flow<g ref="char:EOLhyphen"/>eth almoſt round, making an Iſtmus or Pe<g ref="char:EOLhyphen"/>ninſula, naturally capable of Fortification. In<g ref="char:EOLhyphen"/>to this Houſe they reſolve to croud them<g ref="char:EOLhyphen"/>ſelves
+<pb n="9" facs="tcp:96333:7"/>
+and their Families. In order whereto they haſtned in their proviſions; whil'ſt they were about that, <hi>T. P.</hi> and <hi>R. O.</hi> to render it more Defenſive and Formidable, cauſed Car<g ref="char:EOLhyphen"/>penters to put forth two Bulconia's of Tim<g ref="char:EOLhyphen"/>ber and Plank, on two of the oppoſite cor<g ref="char:EOLhyphen"/>ners of the Houſe, with paſſages into them from the Garret, for Men to Watch in, and where they might upon occaſion make uſe of their Fire-arms: They ſoon follow'd in after their Proviſions; the number of their Families were 42, amounting in all to 180 Men, Wo<g ref="char:EOLhyphen"/>men and Children, whereof about 75 Fight<g ref="char:EOLhyphen"/>ing Men; their Arms and Ammunition were Blunder-buſſes 4, Muſquets, Carbines and Fouling-pieces 40, Caſes of Piſtols 20, Swords 36, Pikes 12, and Sythes 6, of Powder 170 <hi>l.;</hi> with Ball proportionable<hi>:</hi> They preſently found themſelves too much Throng'd, and began think of adding to their Garriſon more Room and Strength; and on the 16th of <hi>January,</hi> they went unanimouſly to work, with Spades, Shovells, Pickaxes, Hand-barrows, <hi>&amp;c.</hi> 150 of the Natives (who always here<g ref="char:EOLhyphen"/>tofore had Earned their Bread from us, and
+<pb n="10" facs="tcp:96333:8"/>
+250 of their Labouring-Horſes, were now Hyred by him to haſten this Work; and be<g ref="char:EOLhyphen"/>fore the 24th of that Month they finiſhed the ſame, and encompaſſed half an Acre of Land about the Houſe, with a Clodd-wall of 14 Foot in heighth, and 12 in thickneſs; with Flankers, <hi>&amp;c.</hi> in the manner of an Ir<g ref="char:EOLhyphen"/>regular Pentagon; within the Wall they Built ſlender Livings, and ſmall Hutts, of half Inch Planck, for Lodges for ſome of their Families, ſuch as they could quickly pull down again; that they might be no hindrance to them, when action ſhould be required. And for further confirmation of their unity, they entred into the following Aſſociation.</p>
+            <pb n="11" facs="tcp:96333:8"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>ASSOCIATION.</head>
+                        <p>WE the undernamed, do hereby in Defence of our Lives and Religion, Aſſociate our ſelves in a Body, within the Fort of <hi>Killowen;</hi> againſt the Enemies of the Proteſtant Church: And will from time to time, to the ut<g ref="char:EOLhyphen"/>moſt of our Power behave our ſelves according to all ſuch Directions as ſhall be given us, by <hi>T. P.</hi> and <hi>R O.</hi> for our management and Safety; until we are received into Command of His Highneſs the Prince of <hi>Orange.</hi> In Teſti<g ref="char:EOLhyphen"/>mony whereof, We have taken our Oaths upon the Holy Changeliſts, and put our Hands and Seals, the laſt day of <hi>January 1688/9.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Their Popiſh Neighbours were much diſ<g ref="char:EOLhyphen"/>guſted hereat, finding that by this contri<g ref="char:EOLhyphen"/>vance they were ſtopt from committing fur<g ref="char:EOLunhyphen"/>ther Robberies upon theſe Proteſtants: Beſides, hereby they conceived themſelves fruſtrated in their baſe private deſigns, which they in<g ref="char:EOLhyphen"/>tended about that time to Execute upon the body of <hi>R. O.</hi> For they were much bent againſt him, becauſe that in the very heighth of Popery in that Kingdom, he
+<pb n="12" facs="tcp:96333:9"/>
+ſtood up vigorouſly for the Proteſtants, and their Religion. And becauſe he had brought to Condign Puniſhment ſeveral of the Papiſts, for wrongs done to the Proteſtants of that place; particularly <hi>Daniel Mac Tiege Carthy,</hi> one of thoſe that Murdered <hi>Edward Gilks</hi> a Smelter, for en<g ref="char:EOLhyphen"/>deavouring to defend himſelf, from being Robbed at Noon day, of 40 <hi>s.</hi> which they knew he had about him, in the Year 1680. <hi>Owen Sulwan,</hi> (a looſe Gentle<g ref="char:EOLhyphen"/>man) for coming unawares behind <hi>R. O.</hi> in a Dark Night, and running him through the Body with a Sword, for offering to recover a Debt due to him from <hi>Sulwan</hi>'s Friend in the Year 1680. <hi>Teague a Glanna</hi> and others that Murdered the Purſivant, for daring to come into that part of the Country, to arreſt a Papiſt at the ſuit of Sir <hi>William Petty,</hi> or of any Proteſtant whatever, in the Year 1685. <hi>Daniel mac Dermot,</hi> and half a Score others, for Robbing a parcel of French Proteſtants, that having eſcaped out of <hi>France,</hi> were by Streſs of Weather forced into the River of <hi>Killmare,</hi>
+               <pb n="13" facs="tcp:96333:9"/>
+in the Year 1686. <hi>Daniel Cruoly,</hi> and 7 more Tories, that in the Year 1687, at<g ref="char:EOLhyphen"/>tempted to Murder and Rob <hi>R. O.</hi> and his Brother, but without ſucceſs, their Cap<g ref="char:EOLhyphen"/>tain having received a Shot in the Head, and two more of the chief of them in the Shoulder and Thigh; being made Pri<g ref="char:EOLhyphen"/>ſoners they Lived till they were Hanged at the Aſſizes following: The greateſt part of all theſe Malefactors were ſeverely Proſecuted by <hi>R. O.</hi> ſome of them were Hang'd, ſome Burnt in the Hand, ſome remained in Gaol, and the reſt diſperſt and fled out of the Country.</p>
+            <p>Within this Fort the ſmall handful of Pro<g ref="char:EOLhyphen"/>teſtants of <hi>Killmare</hi> reckoned themſelves ſafe, from their injurious Neighbours; knowing that no ordinary Force could hurt them, and that it was not very poſſible for an Army to March into that Coun<g ref="char:EOLhyphen"/>try with any Train of Artillery, by reaſon of the many Steep, and Craggy Hills that are round about it, and no way to harm them but by Water. Moreover, when an Army ſhould Land out of <hi>England,</hi> the
+<pb n="14" facs="tcp:96333:10"/>
+Papiſts Garriſons could have but little op<g ref="char:EOLhyphen"/>portunity to ſpare their Cannon in ſending of it againſt this place. And not only in this, but in all Proteſtant holds within our knowledg, the <hi>Engliſh</hi> were much heart<g ref="char:EOLhyphen"/>ned to proceed in this manner<hi>:</hi> For 'twas verily believed by them, and daily expected, that an Army would Land out of <hi>England</hi> in ſome part of <hi>Munſter:</hi> And therefore put themſelves into ſuch prepara<g ref="char:EOLhyphen"/>tions to receive and join with them<hi>:</hi> And theſe of <hi>Killmare,</hi> accounted themſelves in their own Station no leſs Serviceable than o<g ref="char:EOLhyphen"/>thers: For when the Prince ſhould pleaſe to ſend his Forces, to quiet that unruly King<g ref="char:EOLhyphen"/>dom, it's not to be doubted that great com<g ref="char:EOLhyphen"/>panys of Robbers, Tories, and Free Booters would flee into theſe Weſtern parts for ſhelter, as many did, in the laſt Rebellion, where they were never perfectly ſubdued, nor the Laws of <hi>England</hi> duly Executed<hi>:</hi> None could be more active in purſuing them in theſe de<g ref="char:EOLhyphen"/>ſerts, than the Proteſtants of <hi>Killmare,</hi> that were well acquainted with every Nook and Corner in all the Glinns and Mountains for
+<pb n="15" facs="tcp:96333:10"/>
+20, and in ſome places 30 Miles round them.</p>
+            <p>Having as they thought ſecured themſelves within this their new Fortification, they ac<g ref="char:EOLhyphen"/>quainted Lieutenant General <hi>Mac Carthy,</hi> and Sir <hi>Valentine Brown,</hi> his Deputy Governour therewith, who approved thereof, and ex<g ref="char:EOLhyphen"/>preſſed themſelves much grieved at the ſeveral Robberies, and Villanies of the Natives, which urged them to this way of ſafety; a<g ref="char:EOLhyphen"/>gainſt whom they deſir'd the Governours again to proceed to have them brought in, and puniſht, which they faithfully promiſed ſhould be forthwith done<hi>:</hi> But the Gover<g ref="char:EOLhyphen"/>nours neglecting to ſuppreſs the Robbers, <hi>R. O.</hi> reſolved to put the Warrants in Execu<g ref="char:EOLhyphen"/>tion, which they formerly obtained upon their Petitions, that theſe Governours might not have to ſay another day, that they were not only complained unto, but that their Warrants were alſo Executed upon the Ma<g ref="char:EOLhyphen"/>lefactors; and in the night he went out with a Party of the Garriſoners into the Glinns and Mountains, where they took ſix of the known Robbers, and found with them ſeveral of
+<pb n="16" facs="tcp:96333:11"/>
+the Goods which were lately before Robbed and Stolen from ſome of the Garriſoners; theſe together with the Goods were brought into the Garriſon, and afterwards the Priſoners were delivered to ſome Officers, appointed by the Governours to take charge of them, but were ſoon ſet at liberty again upon in<g ref="char:EOLhyphen"/>ſolvent Bail.</p>
+            <p>By this time the 25th of <hi>February</hi> was come, being the day appointed for diſarming all the Proteſtants in that Kingdom<hi>:</hi> At one of the Clock in the Morning, the Iriſh Soul<g ref="char:EOLhyphen"/>diers to the number of 3000 commanded by Captain <hi>Phelin Mac Carthy,</hi> and ſeveral other Captains came up to the Gates of the Garriſon, with intent to have ſurprized the Garriſoners in their Beds; but by a ſhot made by one of the Watch, they were Alarmed, and the Souldiers ſtood off; when 'twas light the Garriſoners ſent forth to know what they were, and their buſineſs, and admitted one of the Iriſh Captains into the Garriſon; who told them plainly that his Errand was to have from them their Horſes, Arms and Ammuniti<g ref="char:EOLhyphen"/>on, and delivered a Letter from Sir <hi>Valentine</hi>
+               <pb n="17" facs="tcp:96333:11"/>
+               <hi>Browne,</hi> to <hi>T. P.</hi> and <hi>R. O.</hi> importing the ſame, and promiſing (that if they would ſur<g ref="char:EOLhyphen"/>render,) to make good what ever conditions they ſhould make with the Officers; and produced an Authority under the Hand and Seal of the Governours, impowering the Iriſh Captains, in caſe of reſiſtance to compel ſubmiſſion by Fire and Sword. The Garriſoners refuſed to ſubmit, and put themſelves in readineſs to receive the onſet of the Beſiegers, who ſtill lay before the Garriſon; a ſpy was alſo ſent abroad into the County of <hi>Corke,</hi> who in 4 Days time returned with an ac<g ref="char:EOLhyphen"/>count that the Proteſtants in <hi>Corke</hi> were Diſarmed<hi>:</hi> That <hi>Caſtlemarter</hi> was Surrender<g ref="char:EOLhyphen"/>ed, and that <hi>Bandon</hi> was but in little better condition.</p>
+            <p>Now the Garriſoners of <hi>Killmare</hi> began to ſee their miſery approaching towards them, all their hopes of ſpeedy relief from <hi>England</hi> being blaſted, of which till then they were very confident; for the Pro<g ref="char:EOLhyphen"/>teſtants were not only ſure of it, as they thought, but even the Lord Deputy, Lieu<g ref="char:EOLunhyphen"/>tenant General <hi>Mac Carthy,</hi> and all other
+<pb n="18" facs="tcp:96333:12"/>
+Governours throughout the Kingdom, ſeemed to be very fearful of of the Prince's Invading <hi>Ireland.</hi> The <hi>Dublin</hi> News Letter about <hi>Chriſtmas</hi> laſt, gave an accompt that an <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Army was Shipt off deſigned for <hi>Ireland,</hi> which was confirm'd by other News, giving a farther accompt, that meeting with con<g ref="char:EOLhyphen"/>trary Winds they put back again; other Shams were likewiſe diſperſed in all Places, as, that, though they were daily raiſing new Forces in <hi>Ireland,</hi> nevertheleſs the Lord Deputy had ſent Propoſals to the Prince for laying down the Sword, <hi>&amp;c.</hi> Whilſt indeed, they were mannaging the grand deſign for Rooting out the Proteſtants, and Eſtabliſhing Popery in that Kingdom; which deluſions of the one party, and credulity of the o<g ref="char:EOLhyphen"/>ther, proved afterwards to be of ſad conſe<g ref="char:EOLhyphen"/>quence to moſt of the Proteſtants of that diſorded Nation. For, through the ex<g ref="char:EOLhyphen"/>pectation of an Army out of <hi>England,</hi> they made little or no manner of Pro<g ref="char:EOLhyphen"/>viſion for their Flight; neither could they form themſelves into Regiments, partly be<g ref="char:EOLhyphen"/>cauſe there were no Commiſſions ſent to
+<pb n="19" facs="tcp:96333:12"/>
+any of them from the Prince, and part<g ref="char:EOLhyphen"/>ly that they were not too prone to make themſelves the firſt Inſtruments of a War, which perhaps was about being compoſed without drawing the Sword on either ſide; and ſo by over-acting might have brought upon themſelves the frowns, rather than the countenace of their Prince. Nevertheleſs they put themſelves into ſome defenſive poſture, to the end that they might be found together upon the Armies Landing; and ſeeing they miſt Surprizing the City of <hi>Corke,</hi> which was once in agitation, and had probably taken effect, had not the deſign been diſcovered by one of their Boſome Friends. It was to no purpoſe, to endeavour what was aimed at, in making <hi>Bandon</hi> a place to ſit down in againſt ſo powerful an Enemy, as appeared to the Solid and Wiſe Earl of <hi>Inchiqueen;</hi> who, though he concluded to Reinforce that Town with his party of Horſe, yet foreſeeing the ill ſucceſs that would follow the defending a Garriſon of no Strength, declined his Reſolution, and ſent Advice to the <hi>Bandonian</hi> Gentlemen to
+<pb n="20" facs="tcp:96333:13"/>
+ſurrender upon making good Terms, leſt they might Periſh by their perſeverance; and though they blamed him abundantly for this Admonition, 'tis manifeſtly the beſt Counſel that ever they received, for if he had aſſiſted them with the Horſe aforeſaid, they would have proved moſt ignorantly reſolute (though for Courage they were fit to ſerve the braveſt of Princes) and expired by their own fool-hardineſs. It's alſo to be doubted, that had they ſucceeded in their de<g ref="char:EOLhyphen"/>ſign of ſeizing the City of <hi>Corke,</hi> they could have kept it but a ſhort time (with a par<g ref="char:EOLhyphen"/>cel of people ſo unexperienced in Martial Affairs, and among whom there was no Order or Government) againſt the whole Army of the Kingdom, of which great part were modell'd and exercis'd for ſome years before<hi>:</hi> For if <hi>London-Derry,</hi> whoſe Walls, Water, and whoſe People are Nume<g ref="char:EOLhyphen"/>rous, and ſcituation are extraordinary, hath been ſo cloſely beſet with the <hi>French</hi> and <hi>Iriſh,</hi> how could poor <hi>Corke,</hi> (whoſe Walls and Water are but ordinary, and liable in ſeveral places for battery againſt it, parti<g ref="char:EOLhyphen"/>cularly
+<pb n="21" facs="tcp:96333:13"/>
+               <hi>Blarny</hi> Hill, from whence the whole City, in defiance of <hi>Shandon</hi> Caſtle, could be laid to Aſhes) with Undiſciplin'd people, defend it ſelf in the very heart of a Papiſt Country.</p>
+            <p>Another Queſtion is alſo very common: Why did not the Proteſtants in <hi>Munſter,</hi> and thereabouts, repair to <hi>London-Derry?</hi> To which it's Anſwer'd, That ſoon after the Prince's Landing in <hi>England,</hi> and the Prote<g ref="char:EOLhyphen"/>ſtants riſing in the <hi>North of Ireland,</hi> all the Paſſes to the North, from the reſt of the Kingdom, were ſecured by the Papiſts, and ſeveral (ſometimes thirty together) of the Proteſtants were taken Priſoners, as they were going from <hi>Dublin,</hi> and other places towards the North; and ſo carefully were theſe Paſſes kept, that they would not ſuffer 3 men to travel together through the Kingdom; and moreover, who would flee from the <hi>Weſt</hi> of <hi>Ireland</hi> to the <hi>North</hi> for refuge, while the <hi>Engliſh</hi> Army was daily expect<g ref="char:EOLhyphen"/>ed to Land in <hi>Munſter.</hi> Thus a diſtract<g ref="char:EOLhyphen"/>ed people for want of Head or Commiſſions to lead them, or inſtructions out of
+<pb n="22" facs="tcp:96333:14"/>
+               <hi>England</hi> to direct them, were brought to ruine, and a prey to Ravenous and Merci<g ref="char:EOLhyphen"/>leſs Papiſts.</p>
+            <p>Hereupon theſe Garriſons of <hi>Killmare</hi> finding themſelves not able to make a long defence when the Cannon (being not other<g ref="char:EOLhyphen"/>wiſe diverted) could be brought againſt them by water, concluded it to be more agreea<g ref="char:EOLhyphen"/>ble with honour and good conſcience to yeild with ſafety of their lives, in hopes another day to ſerve their Prince, rather than raſhly, or obſtinately to periſh in de<g ref="char:EOLhyphen"/>fence of a Garriſon which they could not maintain, and therefore entered into the following Articles with the chief of the Beſiegers.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="conditions">
+                        <p>
+                           <label>I.</label>
+                        </p>
+                        <p>That they were not to plunder, nor ſuffer the Rabble to take away any goods belonging to the Garriſoners.</p>
+                        <pb n="23" facs="tcp:96333:14"/>
+                        <p>
+                           <label>II.</label>
+                        </p>
+                        <p> That the Garriſoners were to have their Swords left with them, according to the Governours promiſe, by his Letter concerning that particular.</p>
+                        <p>
+                           <label>III.</label>
+                        </p>
+                        <p>That they were to have their Liberties to remain in their Garriſon, or their own Houſes, and to depart the Kingdom when they pleaſe.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon theſe Terms the Garriſoners de<g ref="char:EOLhyphen"/>livered up their Horſes, Arms and Am<g ref="char:EOLhyphen"/>munition, which was no ſooner done, but they found the Old Proverb of not keep<g ref="char:EOLhyphen"/>ing Faith with an Heretick, preferred be<g ref="char:EOLhyphen"/>fore ſtrong promiſes and perfected Articles of Agreement; for immediately after they had given up their Arms, the Officers filled the Garriſon with Souldiers, and brought as many as could ſtand by one another, into
+<pb n="24" facs="tcp:96333:15"/>
+every Room of the Houſe; and having Plun<g ref="char:EOLhyphen"/>der'd the Garriſoners of all their Proviſion and Goods, did afterwards turn them out of their Garriſon in a moſt miſerable and ſtar<g ref="char:EOLhyphen"/>ving condition.</p>
+            <p>It happened, that a little before the Diſ<g ref="char:EOLhyphen"/>arming of theſe Proteſtants, the before-men<g ref="char:EOLhyphen"/>tioned <hi>J.—W—,</hi> Eſquire, (who was then in <hi>London,</hi> having regard to the condition that the <hi>Engliſh</hi> of that Country were in) left behind him two ſmall Barques (of near 30 Tun both,) to carry off the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> of that place, in caſe they found them<g ref="char:EOLhyphen"/>ſelves not able to keep together, until ſuch time of as an Army ſhould come to their Relief.</p>
+            <p>Into theſe two Veſſels (to which un<g ref="char:EOLhyphen"/>der God theſe Proteſtants owe their de<g ref="char:EOLhyphen"/>liverance) they put themſelves, Men, Women and Children, except 8 Families which the Officers compelled to ſtay behind (as Slaves) to work for them at their Iron-works,
+<pb n="25" facs="tcp:96333:15"/>
+which none of the Natives were Skilful in.</p>
+            <p>Being thus got on Board, the <hi>Iriſh</hi> Cap<g ref="char:EOLhyphen"/>tains (to leave not one Article unbroken) ordered that the Sails ſhould be taken away from both Ships, to diſable them from going to Sea. Home again, they could not return, for their Garriſon and Dwelling Houſes were poſſeſſed by the Natives; and to Sea they were not ſuffered. Here the Paſſengers were kept on Board for the ſpace of 8 days, in a very loathſome con<g ref="char:EOLhyphen"/>dition, pack't like Fiſh one upon another, the violence of the ſharp weather forcing them to keep cloſe under the Hatches; and this Inhumane uſage they received from theſe Barbarous Officers, without ſhewing any ſort of Reaſon why they ſhould not proceed on their Voyage. At laſt one <hi>Maurice Huſſey,</hi> (Captain Lieu<g ref="char:EOLhyphen"/>tenant to Governour <hi>Browne,)</hi> a Man ſome<g ref="char:EOLhyphen"/>what more compaſſionate than the reſt, told them, that notwithſtanding their Articles, they were ſtopt for fear they would go for
+<pb n="26" facs="tcp:96333:16"/>
+               <hi>England:</hi> Whereupon, <hi>R. O.</hi> was forced to paſs a Bond of 5000 <hi>l.</hi> Conditioned that they would Sail to <hi>Corke,</hi> and that all the Paſſengers of theſe two Ships muſt deliver themſelves up, under the care of the Governour of that City.</p>
+            <p>The loſſes of <hi>R. O.</hi> are his Eſtate worth 170 <hi>l. per. Ann.</hi> and Iron-works, furniſhed with Mine, Coals, and a ſtock of Bar, and Sow-Iron, worth 1500 <hi>l.</hi> Sterling: In black Cattle, Horſes, and Book Debts 1200 <hi>l.</hi> In Bonds for Money at Intereſt<hi>:</hi> The loſſes of <hi>T. P.</hi> are his Livings, worth 200 <hi>l. per Ann.</hi> in Cattle Goods and Debts 550 <hi>l.</hi> The reſt of theſe Proteſtants loſt among them in Black Cattle, Horſes, Debts, <hi>&amp;c.</hi> 1100 <hi>l.</hi> Sterling.</p>
+            <p>Notwithſtanding the Robberies of Corn, Cows, Bullocks, Sheep Swine and other proviſions, forced away by the Papiſts from the Proteſtants all over the Kingdom of <hi>Ireland:</hi> It's to be feared that God Al<g ref="char:EOLhyphen"/>mighty, will in his good time, puniſh that
+<pb n="27" facs="tcp:96333:16"/>
+Nation with Hunger if not great Famine and that very ſoon; unleſs it can be ſup<g ref="char:EOLhyphen"/>plied from Foreign parts. For the gene<g ref="char:EOLhyphen"/>rality of the Robbers, Filchers and Stealers, eſpecially abroad in the Country, are moſt of them ſuch as always fared very meanly, perhaps not above 4 good Meals of Fleſh in the Year; and now abounding with plenty of the Ruines of the Proteſtants, are in competition, who ſhall ſpend moſt and make greateſt havock: The Pro<g ref="char:EOLhyphen"/>teſtants being (among the reſt) Robbed of their Ploughing-Horſes and Oxen, and the Papiſts wholly imployed in taking their ſubſtance from them, at the time when all ſhould look to the Ploughing of their Ground: It appears that little Proviſion is made for Corn againſt the enſuing Sea<g ref="char:EOLhyphen"/>ſon; ſo that 'tis expected, that there will be great ſcarcity of Grain, and all other Food.</p>
+            <p>It may not be irrationally conjectured, to have a Plague likewiſe to break forth among the Natives of that Kingdom, be<g ref="char:EOLhyphen"/>fore
+<pb n="28" facs="tcp:96333:17"/>
+the end of this Summer 1689, by reaſon of the corruptions that may grow in their Bodies, and in the Air of their Villages and Cottages, that are ſtill reak<g ref="char:EOLhyphen"/>ing with the ſlaughter of ſo much Meat, handled and dreſt with too much naſtineſs of a people, that from low Penury ſtart<g ref="char:EOLhyphen"/>ed into Pride and Plenty, Glorying in their Beaſtilineſs of greedy devouring and over-gorging themſelves with Fleſh, half-raw-half-roaſted, ſometimes half-boiled half-rotten and Stinking for want of Salt; ſome, times moving towards the Boyler, by the aſ<g ref="char:EOLhyphen"/>ſiſtance of the wriggling Crawlers, that lately before received their Birth from the ſame piece of Fleſh.</p>
+            <p>The afore-mentioned Bond of 5000 <hi>l.</hi> be<g ref="char:EOLhyphen"/>ing perfected, the Sails were reſtored, and the Paſſengers ſlipping no opportunity, Sailed thence on the 10th of <hi>March;</hi> all the Pro<g ref="char:EOLhyphen"/>viſion which was allowed them for the Voy<g ref="char:EOLhyphen"/>age and their Subſiſtence when they ſhould come to <hi>Corke,</hi> was only five Barrels of Beef, Forty Gallons of Oatmeal and ſome un<g ref="char:EOLhyphen"/>baked
+<pb n="39" facs="tcp:96333:17"/>
+Dough (as is in the days of Old with the <hi>Iſraelites</hi> fleeing out of <hi>Aegypt)</hi> but of Water they had enough; and being got to Sea out of the reach of their Ene<g ref="char:EOLhyphen"/>mies, they concluded to Sail for <hi>Briſtol,</hi> reſolving without reſpect to an Extorted, Bond to beg their Bread in <hi>England,</hi> rather than come again under the Hands of the Papiſts, whoſe Mercies are very Cruelties. The Maſters of theſe two Ships were not Expert in Navigation, but were Skilful only in Coaſting about thoſe <hi>Weſtern</hi> parts<hi>:</hi> So that <hi>T. P.</hi> and <hi>R. O.</hi> having ſome inſight therein took upon them to ſhape the Courſe; and after the delays of ſome Calms and contrary Winds, which met them at Sea, both theſe Ships with Gods aſſiſtance arrived at <hi>Briſtol</hi> on the <hi>25th</hi> of <hi>March</hi> aforeſaid, where theſe Paſſengers were put on Shore in a very needy Condition, and moſt of them great objects of Charity; whereof the Mayor of that City was pleaſ<g ref="char:EOLhyphen"/>ed to take notice, and order'd Collections to be made for their Relief.</p>
+            <p>Soon after they Landed three of them
+<pb n="30" facs="tcp:96333:18"/>
+Dyed, through the Injury they receiv'd on Board for Twenty Days, in Colds and Hats, Soaking in their Cloaths and Stowed one upon another, and through extream Thirſt, Drinking over much Water, ſo diſtempered and infected their Blood, that moſt of them were afflicted with violent Feavours, Flux, and a more than ordinary ſort of Meazles. The greateſt part of them being come up to <hi>London,</hi> are many of them Relieved and En<g ref="char:EOLhyphen"/>tertained, by the Right Honourable the Lady Baroneſs of <hi>Shelborne;</hi> ſome are wait<g ref="char:EOLhyphen"/>ing before the Commiſſioners for diſtribut<g ref="char:EOLhyphen"/>ing Relief to the Diſtreſſed Proteſtants of that Kingdom; and the reſt according to their ſeveral Capacities, have diſpoſed of themſelves in the Army, deſigned for redu<g ref="char:EOLhyphen"/>cing of <hi>Ireland.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96333:18"/>
+            <head>Advertiſement of Books lately Print<g ref="char:EOLhyphen"/>ed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon,</hi> in St. <hi>Paul</hi>'s <hi>Church-yard.</hi>
+            </head>
+            <p>POpiſh Treachery, or a Short and New Account of the Horrid Cruelties Exerciſed on the Proteſtants in <hi>France;</hi> being a true Proſpect of what is to be Ex<g ref="char:EOLhyphen"/>pected from the moſt Solemn Promiſes of <hi>Roman Ca<g ref="char:EOLhyphen"/>tholick</hi> Princes: In a Letter from a Gentleman of that Nation, to one in <hi>England.</hi>
+            </p>
+            <p>A Critical Hiſtory of the Text of the New Teſtament, where is firmly Eſtabliſht the Truths of thoſe Acts, in which the Foundation of Chriſtian Religion is laid; by Father <hi>Simon.</hi>
+            </p>
+            <p>A Juſtification of the Proceedings, of their Majeſties King <hi>William</hi> and Queen <hi>Mary;</hi> of their Royal High<g ref="char:EOLhyphen"/>neſſes Prince <hi>George,</hi> and Princeſs <hi>Ann;</hi> of the Con<g ref="char:EOLhyphen"/>vention Army, Miniſters of State, and others, in this great Revolution. <hi>By Authority.</hi>
+            </p>
+            <p>A True Narrative of all the Proceedings againſt the Lord Biſhop of <hi>London,</hi> in the Council-Chamber at <hi>White-Hall,</hi> by the Lords Commiſſioners appointed by His Majeſty, for Eccleſiaſtical Affairs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
